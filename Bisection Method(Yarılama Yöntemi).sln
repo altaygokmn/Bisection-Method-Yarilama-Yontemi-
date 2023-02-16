@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bisection Method(Yarılama Yöntemi)", "Bisection Method(Yarılama Yöntemi)\Bisection Method(Yarılama Yöntemi).csproj", "{41F8DAC1-6846-4D7D-B9DE-0A8643415648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F8DAC1-6846-4D7D-B9DE-0A8643415648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F8DAC1-6846-4D7D-B9DE-0A8643415648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F8DAC1-6846-4D7D-B9DE-0A8643415648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F8DAC1-6846-4D7D-B9DE-0A8643415648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC8F33F6-0B21-4825-AAD8-6C27A780ED87}
+	EndGlobalSection
+EndGlobal
